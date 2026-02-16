@@ -117,7 +117,6 @@ erDiagram
         String unblockReason
         Long column_id FK
     }
-}
 ```
 
 ---
@@ -431,4 +430,4 @@ Se encontrou um bug ou tem sugestões de melhoria, sinta-se à vontade para abri
 
 ---
 
-**Desenvolvido com ❤️ usando Spring Boot**
+**Desenvolvido por Davi Tavares usando Spring Boot**
